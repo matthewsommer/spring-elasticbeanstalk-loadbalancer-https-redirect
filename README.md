@@ -7,4 +7,4 @@ Spring Boot 1.5.1.
 Using provided Tomcat, terminating HTTPS at the a load balancer (Apache2).
 
 I give a detail explaination here: 
-http://mattsommer.io/spring-eb-https-redirect.html
+http://mattsommer.io/spring-eb-apache-https-redirect.html
